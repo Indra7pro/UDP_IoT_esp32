@@ -11,3 +11,8 @@ To install:
 `pip install pynput`
 
 The rest of the modules are already present as the built in modules. 
+
+
+#### Next is to configure the arduino ide for esp32
+
+Add the following link :`https://espressif.github.io/arduino-esp32/package_esp32_index.json` in the `additional boards manager URLs` which could be found in the `preferences` of the auduino library. 
